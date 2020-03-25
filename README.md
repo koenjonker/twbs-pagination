@@ -1,4 +1,4 @@
-# [jQuery pagination plugin (bootstrap powered)](http://josecebe.github.io/twbs-pagination/)
+# [jQuery pagination plugin (bootstrap powered)](http://esimakin.github.io/twbs-pagination/)
 
 ### Basic usage ###
 
